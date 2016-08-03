@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Olkeler</string>
+    <string name="title_olke_activity">OlkeActivity</string>
+    <string name="olke">Ölkə</string>
+    <string name="olke_adi">OlkeAdi</string>
+
+    <string name="olke_title">Olkeler</string>
+    <string name="paytaxt">Paytaxt</string>
+    <string name="paytaxt_adi">Paytaxt Adi</string>
+</resources>
